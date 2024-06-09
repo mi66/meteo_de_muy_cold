@@ -1,0 +1,5 @@
+fhora                  | nombre                     | avg_temp | avg_pres | avg_vel
+-----------------------+----------------------------+----------+----------+--------
+2024-01-05T00:00:00CET | JCI Estacion meteorologica | 1.36     | 982.71   | 2.84   
+2024-01-06T00:00:00CET | JCI Estacion meteorologica | 1.40     | 981.19   | 2.54   
+2024-01-07T00:00:00CET | JCI Estacion meteorologica | 1.63     | 978.52   | 1.96   
