@@ -1,0 +1,4 @@
+Create a new project
+Install the .whl file located in the personal_library folder using the command pip install personal_library\meteo_de_muy_cold-0.1-py3-none-any.whl
+This will install the library plus its prerequisites (requests and pytz)
+Use the code in main_run.py to run the process by changing the two locations - the first should point to the manual_input.yaml, the second should point to a folder where the output files will be stored
